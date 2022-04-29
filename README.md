@@ -1,5 +1,8 @@
 ### Solution Architecture
 
+
+
+
 - [Solution Architecture](https://en.wikipedia.org/wiki/Solution_architecture)
 - [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
 - [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
